@@ -1,1 +1,1 @@
-My Devops Repo
+My DevOps repo
